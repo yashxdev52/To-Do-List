@@ -1,39 +1,35 @@
 📝 To-Do List App
 
-A simple and user-friendly To-Do List application that helps you organize your daily tasks, manage your work, and boost productivity.
+A simple and user-friendly To-Do List application built to help you organize daily tasks, stay productive, and manage your work efficiently.
+
+🌐 Live Demo
+
+🚀 Try it here: 
 
 ✨ Features
 ➕ Add new tasks
 ✅ Mark tasks as completed
 🗑️ Delete tasks
-📋 View and manage your daily tasks
-🎨 Simple and clean user interface
+📋 Manage daily tasks easily
+🎨 Clean and user-friendly interface
 🛠️ Technologies Used
-HTML
-CSS
+HTML5
+CSS3
 JavaScript
-
-
-🚀 Getting Started
- https://yashxdev52.github.io/To-Do-List/
-
-
-
-💡 What I Learned
+📚 What I Learned
 DOM manipulation using JavaScript
 Handling user interactions and events
 Styling web pages using CSS
 Building an interactive web application
 🔮 Future Improvements
-Save tasks using Local Storage
-Add task priorities
-Add due dates and reminders
-Filter tasks by completed and pending status
-
-
+💾 Save tasks using Local Storage
+🎯 Add task priorities
+📅 Add due dates and reminders
+🔍 Filter tasks by completed and pending status
 👨‍💻 Author
 
 YASH
+
 GitHub: @yashxdev52
 
-⭐ If you like this project, feel free to star the repository!
+⭐ If you like this project, consider giving the repository a star!
