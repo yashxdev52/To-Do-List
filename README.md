@@ -31,5 +31,3 @@ Building an interactive web application
 YASH
 
 GitHub: @yashxdev52
-
-⭐ If you like this project, consider giving the repository a star!
