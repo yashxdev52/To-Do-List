@@ -15,7 +15,7 @@ JavaScript
 
 
 🚀 Getting Started
-https://github.com/yashxdev52/To-Do-List.git
+ https://yashxdev52.github.io/To-Do-List/
 
 
 
